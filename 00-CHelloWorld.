@@ -1,1 +1,9 @@
+# 00-CHelloWorld
 
+Este proyecto contiene un programa en C que imprime "Hola Mundo"
+
+ Información del compilador
+
+- Compilador seleccionado: GCC (GNU Compiler Collection)
+- Versión del compilador: 14.2.0
+- Versión de C utilizada: C17 
